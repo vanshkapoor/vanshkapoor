@@ -1,16 +1,14 @@
-### Hi there 👋
+![github](https://user-images.githubusercontent.com/31445077/87033150-57166f80-c203-11ea-990c-71a1e0d34ff4.png)
+### 👋 Hi there 
+I am a computer science engineer and have experience in working in many startups as technical Lead and Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space.
 
-<!--
-**vanshkapoor/vanshkapoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on ReactJS, Nodejs, appscripts and flutter.
+- 🌱 I’m currently learning competitive coding.
+- ⚡  Available for Freelance projects/internship opportunities.
+- 💬 Read out my blogs on [Journal](https://journaldev.netlify.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach me at 
+
+![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20%40vansh_kapoor_&style=social&url=https%3A%2F%2Ftwitter.com%2Fvansh_Kapoor_)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vansh-kapoor-62a938169/)
