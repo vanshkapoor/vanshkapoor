@@ -9,6 +9,5 @@ I am a computer science engineer and have experience in working in many startups
 - 💬 Read out my blogs on [Journal](https://journaldev.netlify.app)
 
 ### 📫 Reach me at 
-
-![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20%40vansh_kapoor_&style=social&url=https%3A%2F%2Ftwitter.com%2Fvansh_Kapoor_)
+![Twitter Follow](https://img.shields.io/twitter/follow/vansh_kapoor_?style=social)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vansh-kapoor-62a938169/)
