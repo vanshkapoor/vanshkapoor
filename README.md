@@ -4,7 +4,7 @@ I am a computer science engineer and have experience in working in many startups
 
 
 - 🔭 I’m currently working on ReactJS, Nodejs, appscripts and flutter.
-- 🌱 I’m currently learning competitive coding.
+- 🍔 Currently developing TasteBuds.
 - ⚡  Available for Freelance projects/internship opportunities.
 - 💬 Read out my blogs on [Journal](https://journaldev.netlify.app)
 
