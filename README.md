@@ -8,6 +8,11 @@ I am a computer science engineer and have experience in working in many startups
 - ⚡ Currently Working at ThoughtWorks.
 - 💬 Read out my blogs on [Journal](https://journaldev.netlify.app)
 
+<hr />
+
+### Visitor count
+https://profile-counter.glitch.me/vanshkapoor/count.svg
+
 ### 📫 Reach me at 
 ![Twitter Follow](https://img.shields.io/twitter/follow/vansh_kapoor_?style=social)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vansh-kapoor-62a938169/)
