@@ -11,7 +11,7 @@ I am a computer science engineer and have experience in working in many startups
 <hr />
 
 ### Visitor count
-https://profile-counter.glitch.me/vanshkapoor/count.svg
+<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
 
 ### 📫 Reach me at 
 ![Twitter Follow](https://img.shields.io/twitter/follow/vansh_kapoor_?style=social)
